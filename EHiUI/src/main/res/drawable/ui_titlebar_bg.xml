@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<gradient-->
+        <!--android:angle="0"-->
+        <!--android:centerColor="@color/ehai_ui_titlebar_bg_center"-->
+        <!--android:endColor="@color/ehai_ui_titlebar_bg_right"-->
+        <!--android:startColor="@color/ehai_ui_titlebar_bg_left" />-->
+
+    <solid android:color="@color/resource_white" />
+
+</shape>

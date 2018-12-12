@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_server_error"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical">
+
+    <TextView
+        android:id="@+id/tv_server_code"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv_error"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="404"
+        android:textColor="#555555"
+        android:textSize="40dp" />
+
+    <TextView
+        android:id="@+id/tv_server_error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_server_code"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="40dp"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxLines="6"
+        android:text="真不巧,网页走丢了"
+        android:textColor="#B6B6B6"
+        android:textSize="12dp"
+        tools:text="真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了v,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了,真不巧,网页走丢了" />
+
+    <TextView
+        android:id="@+id/tv_retry"
+        android:layout_width="105dp"
+        android:layout_height="32dp"
+        android:layout_below="@+id/tv_server_error"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="23dp"
+        android:background="@drawable/ui_error_view_network_retry_bg"
+        android:gravity="center"
+        android:text="重新加载"
+        android:textColor="#63ADD9"
+        android:textSize="16dp" />
+
+</RelativeLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--最大的宽度和高度-->
+    <attr name="ehiMaxWidth" format="dimension"/>
+    <attr name="ehiMaxHeight" format="dimension"/>
+
+</resources>

@@ -1,0 +1,56 @@
+apply plugin: 'com.android.library'
+
+android {
+
+    compileSdkVersion versions.android_compile_sdk
+
+    defaultConfig {
+        minSdkVersion versions.android_min_sdk
+        targetSdkVersion versions.android_target_sdk
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+}
+
+dependencies {
+
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    api project(':EHiResource')
+    api project(':EHiTools')
+    api project(':EHiUI')
+
+    api libs.constraintLayout
+    api libs.design
+    api libs.appcompat_v7
+    api libs.recyclerview
+    api libs.support_annotations
+
+    // 组件库提供加解密操作
+    api libs.ehi_encryption
+    // Android 组件库中的图片选择库,朱晓宇提供
+    api libs.ehi_picturepiker
+    // 陈越提供的Log库
+    api libs.ehi_log
+    api libs.ehi_base
+
+    // 组件话的路由跳转和生命周期的Api和注解驱动器
+    api libs.ehi_component
+    // 工具库
+    api libs.ehi_tools
+
+    api libs.butterknife
+    api libs.retrofit2
+    api libs.retrofit2_converter_gson
+    api libs.retrofit2_rxjava2_adapter
+
+    api project(':EHiDatasourceApi')
+    annotationProcessor project(':EHiDatasourceCompiler')
+
+}

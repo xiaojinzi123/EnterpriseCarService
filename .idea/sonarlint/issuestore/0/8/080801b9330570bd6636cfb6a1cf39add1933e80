@@ -1,0 +1,17 @@
+
+Asquid:S00108{")Either remove or fill this block of code.(”ı¾
+Osquid:S2589Õ"7Remove this expression which always evaluates to "true"(çôèØ
+Hsquid:S001086")Either remove or fill this block of code.(ëß‹™8ÚÔ¾‚ú,
+Msquid:S00108?")Either remove or fill this block of code.(¿ßÔ–ıÿÿÿÿ8¹â±‚ú,
+nsquid:S3776V"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Æ´Áˆùÿÿÿÿ
+lsquid:S00100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¯Óµşÿÿÿÿ
+Bsquid:S00108Æ")Either remove or fill this block of code.(”ı¾
+Msquid:S1854‡"5Remove this useless assignment to local variable "b".(ï¤œÿ
+Msquid:S2093."*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¹â±‚ú,
+Osquid:S2589³"7Remove this expression which always evaluates to "true"(çôèØ
+Gsquid:S1066ö"/Merge this if statement with the enclosing one.(Áí‡
+[squid:S2583ğ"DChange this condition so that it does not always evaluate to "false"(°†j
+Bsquid:S00108ã")Either remove or fill this block of code.(”ı¾
+osquid:S20950"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(æğÁ¯ıÿÿÿÿ8¹â±‚ú,
+Csquid:S11816"%Catch Exception instead of Throwable.(ëß‹™8¹â±‚ú,
+lsquid:S00100±"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌùÈ¶ÿÿÿÿÿ

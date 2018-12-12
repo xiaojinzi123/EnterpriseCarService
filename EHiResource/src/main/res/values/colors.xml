@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="resource_transparent">#00ffffff</color>
+    <color name="resource_white">#FFFFFF</color>
+    <color name="resource_bunker1">#E5333333</color>
+    <color name="resource_cod_gray">#CC000000</color>
+    <color name="resource_mine_shaft">#333333</color>
+    <color name="resource_boulder">#7B7B7B</color>
+    <color name="resource_aluminum">#999999</color>
+    <color name="resource_magnesium">#B6B6B6</color>
+    <color name="resource_deep_carrot_orange">#EE5909</color>
+    <color name="resource_wild_sand">#F4F4F4</color>
+    <color name="resource_light_gray1">#D4D4D4</color>
+    <color name="resource_light_gray2">#D2D2D2</color>
+    <color name="resource_tiffany_blue">#28B6B6</color>
+    <color name="resource_chilean_fire">#FF7E00</color>
+    <color name="resource_chilean_fire1">#DDFF7E00</color>
+    <color name="resource_zircon">#E5E5E5</color>
+</resources>

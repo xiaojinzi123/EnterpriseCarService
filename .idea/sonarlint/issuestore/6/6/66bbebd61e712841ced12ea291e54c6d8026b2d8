@@ -1,0 +1,13 @@
+
+jsquid:S00116C"SRename this field "iv_menu1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¡¾U
+ƒsquid:S1488ª"fImmediately return this expression instead of assigning it to the temporary variable "colorStateList".(áış¤şÿÿÿÿ
+jsquid:S00116>"RRename this field "iv_menu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¸ÒÂ
+nsquid:S3776T"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ß”’‘úÿÿÿÿ
+psquid:S00116B"SRename this field "tv_menu1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óß§°øÿÿÿÿ
+ksquid:S001169"SRename this field "tv_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¾·
+jsquid:S00116<"RRename this field "rl_menu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º‹¥¿
+rsquid:S00116E"ZRename this field "view_under_line" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕûáÚ
+}squid:S001166"`Rename this field "rl_titlebar_container" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÇë¦úÿÿÿÿ
+jsquid:S00116="RRename this field "tv_menu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ˆ•
+osquid:S001168"RRename this field "iv_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒûÕîüÿÿÿÿ
+ksquid:S00116A"SRename this field "rl_menu1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ŸË¸

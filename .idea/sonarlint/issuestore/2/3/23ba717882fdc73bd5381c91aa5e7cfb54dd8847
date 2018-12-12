@@ -1,0 +1,12 @@
+
+rsquid:S00115'"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(üšäù
+rsquid:S00115%"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èÓ÷Î
+Esquid:S1068•"-Remove this unused "errorCode" private field.(İŠ‚Ï
+Msquid:S1068—"0Remove this unused "errorMessage" private field.(¥åˆüÿÿÿÿ
+Rsquid:S1161™":Add the "@Override" annotation above this method signature(»¢²ê
+Qsquid:S1161m":Add the "@Override" annotation above this method signature(»¢²ê
+wsquid:S00115)"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„†æìşÿÿÿÿ
+Qsquid:S1161u":Add the "@Override" annotation above this method signature(»¢²ê
+rsquid:S00115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õ£÷Ò
+wsquid:S00115!"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Û’ŒÄÿÿÿÿÿ
+9squid:S1214""Move constants to a class or enum.(•ÊıÕ

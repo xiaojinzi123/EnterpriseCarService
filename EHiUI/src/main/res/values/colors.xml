@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--默认的文字颜色-->
+    <color name="ui_text_color">@color/resource_mine_shaft</color>
+    <color name="ui_text1_color">@color/resource_boulder</color>
+    <color name="ui_text2_color">@color/resource_aluminum</color>
+    <color name="ui_text3_color">@color/resource_magnesium</color>
+
+    <!--dialog的颜色值-->
+    <color name="ui_dialog_bg">@color/resource_white</color>
+    <color name="ui_dialog_tv_title_text">@color/resource_mine_shaft</color>
+    <color name="ui_dialog_tv_content_text">@color/resource_mine_shaft</color>
+    <color name="ui_dialog_tv_cancel_text">@color/resource_mine_shaft</color>
+    <color name="ui_dialog_tv_confirm_text">@color/resource_deep_carrot_orange</color>
+    <color name="ui_dialog_split_line">@color/resource_light_gray1</color>
+    <color name="ui_dialog_cancel_text_color_pressed">@color/resource_wild_sand</color>
+
+    <!--标题栏的背景颜色-->
+    <color name="ui_titlebar_bg_left">@color/resource_tiffany_blue</color>
+    <color name="ui_titlebar_bg_center">#32C2C2</color>
+    <color name="ui_titlebar_bg_right">#23D0D0</color>
+    <color name="ui_titlebar_text">@color/resource_mine_shaft</color>
+    <color name="ui_titlebar_text_disable">@color/resource_light_gray1</color>
+
+</resources>

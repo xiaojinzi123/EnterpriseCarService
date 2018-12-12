@@ -1,0 +1,6 @@
+
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(Ϋφτ°
+Qsquid:S3984"5Throw this exception or remove this useless statement(΄ιÿ―όÿÿÿÿ
+rsquid:S1450"VRemove the "isDebug" field and declare it as a local variable in the relevant methods.(µΙ¬όÿÿÿÿ
+`squid:S2583"DChange this condition so that it does not always evaluate to "false"(…©£πϋÿÿÿÿ
+Gsquid:S1068"+Remove this unused "isDebug" private field.(µΙ¬όÿÿÿÿ

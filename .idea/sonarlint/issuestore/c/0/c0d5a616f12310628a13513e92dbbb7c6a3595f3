@@ -1,0 +1,23 @@
+
+u
+squid:S135ë"YReduce the total number of break and continue statements in this loop to use at most one.(¤Ôˆÿúÿÿÿÿ
+u
+squid:S135–"YReduce the total number of break and continue statements in this loop to use at most one.(¤Ôˆÿúÿÿÿÿ
+Vsquid:MissingDeprecatedChecké"(Add the missing @deprecated Javadoc tag.(Ñ›ñâüÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(£“ä¯üÿÿÿÿ
+[squid:S1155Ë">Use isEmpty() to check whether the collection is empty or not.(àò÷Áøÿÿÿÿ
+Zsquid:S1155k">Use isEmpty() to check whether the collection is empty or not.(Ö»ëÚşÿÿÿÿ
+6squid:S1065•"Remove this unused label.(¥µœ‰øÿÿÿÿ
+[squid:S1155¿">Use isEmpty() to check whether the collection is empty or not.(àò÷Áøÿÿÿÿ
+Rsquid:S1133é"5Do not forget to remove this deprecated code someday.(Ñ›ñâüÿÿÿÿ
+u
+squid:S135º"YReduce the total number of break and continue statements in this loop to use at most one.(âîĞ³øÿÿÿÿ
+Rsquid:S1133³"5Do not forget to remove this deprecated code someday.(¬¿à†øÿÿÿÿ
+^squid:S1126¿"AReplace this if-then-else statement by a single return statement.(àò÷Áøÿÿÿÿ
+Vsquid:MissingDeprecatedCheck³"(Add the missing @deprecated Javadoc tag.(¬¿à†øÿÿÿÿ
+m squid:LabelsShouldNotBeUsedCheck•";Refactor the code to remove this label and the need for it.(¥µœ‰øÿÿÿÿ
+isquid:S3776b"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(’–ó›
+u
+squid:S135Ñ"YReduce the total number of break and continue statements in this loop to use at most one.(¤Ôˆÿúÿÿÿÿ
+m squid:LabelsShouldNotBeUsedCheck";Refactor the code to remove this label and the need for it.(¬é÷àøÿÿÿÿ
+lsquid:S1149K"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ú˜äşÿÿÿÿ

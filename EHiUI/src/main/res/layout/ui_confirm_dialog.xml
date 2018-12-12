@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/resource_dp_24"
+        android:orientation="vertical"
+        android:layout_marginRight="@dimen/resource_dp_24"
+        android:background="@drawable/ui_dialog_bg">
+
+        <ImageView
+            android:id="@+id/iv_hint_icon"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="16dp"
+            android:src="@drawable/ui_warning"
+            android:visibility="gone"
+            tools:visibility="visible" />
+
+        <com.ehi.enterprise.widget.EHiWidgetMaxHeightNestedScrollView
+            android:id="@+id/view_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/resource_dp_20"
+            android:layout_marginTop="@dimen/resource_dp_16"
+            app:ehiMaxHeight="300dp"
+            android:layout_marginRight="@dimen/resource_dp_20"
+            android:layout_marginBottom="@dimen/resource_dp_16">
+
+            <TextView
+                android:id="@+id/tv_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="left|center_vertical"
+                android:textColor="@color/ui_dialog_tv_content_text"
+                android:textSize="@dimen/ui_dialog_tv_content_size"
+                tools:text="确认要删除吗?" />
+
+        </com.ehi.enterprise.widget.EHiWidgetMaxHeightNestedScrollView>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@color/ui_dialog_split_line" />
+
+        <LinearLayout
+            android:id="@+id/ll_foot"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/ui_dialog_operate_foot_height"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_cancel"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/ui_confirm_dialog_cancel_bg"
+                android:gravity="center"
+                android:text="取消"
+                android:textColor="@color/ui_dialog_tv_cancel_text"
+                android:textSize="@dimen/ui_dialog_tv_cancel_size" />
+
+            <View
+                android:id="@+id/view_split_line_cancel_and_confirm"
+                android:layout_width="1px"
+                android:layout_height="match_parent"
+                android:background="@color/ui_dialog_split_line" />
+
+            <TextView
+                android:id="@+id/tv_confirm"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/ui_confirm_dialog_confirm_bg"
+                android:gravity="center"
+                android:text="确定"
+                android:textColor="@color/ui_dialog_tv_confirm_text"
+                android:textSize="@dimen/ui_dialog_tv_confirm_size" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

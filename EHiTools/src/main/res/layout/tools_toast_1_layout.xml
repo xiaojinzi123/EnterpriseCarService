@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/resource_cod_gray"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:padding="@dimen/resource_dp_10">
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="@dimen/resource_dp_30"
+        android:layout_height="@dimen/resource_dp_30"
+        tools:src="@drawable/tools_ok" />
+
+    <TextView
+        android:id="@+id/tv_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/resource_dp_10"
+        android:gravity="center"
+        android:text="连接失败"
+        android:textColor="@color/resource_white"
+        android:textSize="@dimen/resource_dp_14" />
+
+</LinearLayout>
+
+
+

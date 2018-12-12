@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ComponentUser" />
+            <option value="$PROJECT_DIR$/EHiBase" />
+            <option value="$PROJECT_DIR$/EHiDatasourceApi" />
+            <option value="$PROJECT_DIR$/EHiDatasourceCompiler" />
+            <option value="$PROJECT_DIR$/EHiDemo" />
+            <option value="$PROJECT_DIR$/EHiResource" />
+            <option value="$PROJECT_DIR$/EHiTools" />
+            <option value="$PROJECT_DIR$/EHiUI" />
+            <option value="$PROJECT_DIR$/EHiWidget" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

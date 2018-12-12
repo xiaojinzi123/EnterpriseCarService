@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EHiResource</string>
+    <string name="resource_network_errer">网络不给力呦</string>
+    <string name="resource_welcome_login_tip">欢迎登录企业车享</string>
+    <string name="resource_input_phone_tip">请输入手机号码</string>
+    <string name="resource_input_checkcode_tip">请输入验证码</string>
+    <string name="resource_login">登录</string>
+</resources>

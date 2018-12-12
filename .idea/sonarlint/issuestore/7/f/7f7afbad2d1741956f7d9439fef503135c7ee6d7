@@ -1,0 +1,10 @@
+
+6squid:S1872Y"Use "isAssignableFrom" instead.(Ğ¢øÙ
+]squid:S1126b"AReplace this if-then-else statement by a single return statement.(Ë®š©øÿÿÿÿ
+Xsquid:S1126Y"AReplace this if-then-else statement by a single return statement.(Ğ¢øÙ
+6squid:S18726"Use "isAssignableFrom" instead.(¤Õ•
+6squid:S1872I"Use "isAssignableFrom" instead.(¤Õ•
+Nsquid:S25896"7Remove this expression which always evaluates to "true"(¤Õ•
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ÖÆ‘ãşÿÿÿÿ
+Nsquid:S2589Y"7Remove this expression which always evaluates to "true"(Ğ¢øÙ
+Nsquid:S2589I"7Remove this expression which always evaluates to "true"(¤Õ•

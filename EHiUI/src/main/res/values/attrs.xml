@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--标题-->
+    <attr name="ehiTitle" format="string" />
+    <!--返回图标是否显示-->
+    <attr name="ehiBackImgVisiable" format="boolean" />
+    <attr name="ehiMenuText" format="string" />
+    <attr name="ehiMenuTextColor" format="color" />
+    <attr name="ehiMenuImg" format="reference" />
+    <attr name="ehiMenuImgPadding" format="reference" />
+    <attr name="ehiMenu1Text" format="string" />
+    <attr name="ehiMenu1TextColor" format="color" />
+    <attr name="ehiMenu1Img" format="reference" />
+    <attr name="ehiMenu1ImgPadding" format="reference" />
+    <attr name="ehiFitsystem" format="boolean" />
+    <attr name="ehiBgTransparent" format="boolean" />
+    <attr name="ehiShowUnderline" format="boolean" />
+
+    <declare-styleable name="UITitleBar">
+        <attr name="ehiTitle" />
+        <attr name="ehiBackImgVisiable" />
+        <attr name="ehiMenuText" />
+        <attr name="ehiMenuTextColor" />
+        <attr name="ehiMenuImg" />
+        <attr name="ehiMenuImgPadding" />
+        <attr name="ehiMenu1Text" />
+        <attr name="ehiMenu1TextColor" />
+        <attr name="ehiMenu1Img" />
+        <attr name="ehiMenu1ImgPadding" />
+        <attr name="ehiFitsystem" />
+        <attr name="ehiBgTransparent" />
+        <attr name="ehiShowUnderline" />
+    </declare-styleable>
+
+</resources>

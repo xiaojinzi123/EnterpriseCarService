@@ -1,0 +1,5 @@
+
+‰"squid:ClassVariableVisibilityCheck"TMake layoutId a static final constant or non-public and provide accessors if needed.(µÍœ³8çñîŠú,
+“"squid:ClassVariableVisibilityCheck"YMake realContentId a static final constant or non-public and provide accessors if needed.(çéºüÿÿÿÿ8çñîŠú,
+"squid:ClassVariableVisibilityCheck"TMake initView a static final constant or non-public and provide accessors if needed.(¤êÃüÿÿÿÿ8ÅËòŠú,
+"squid:ClassVariableVisibilityCheck"UMake errorView a static final constant or non-public and provide accessors if needed.(é¤œÏıÿÿÿÿ8ÅËòŠú,

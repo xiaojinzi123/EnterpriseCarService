@@ -1,0 +1,1 @@
+include ':app', ':EHiBase', ':EHiTools', ':EHiResource', ':EHiDemo', ':EHiUI', ':EHiWidget', ':ComponentUser', ':EHiDatasourceApi', ':EHiDatasourceCompiler'
